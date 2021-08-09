@@ -1,4 +1,5 @@
 ** CHARACTERS **
 *BOB*(The monkey)
 *JAMES*(The crocodile)
-*Sarah*)(The crocodile's wife)
+*Sarah*(The crocodile's wife)
+*Tiger*(The turtle)
